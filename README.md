@@ -1,2 +1,2 @@
 # wiki-API
-my own RESTful API
+ Learning to create my own RESTful API
